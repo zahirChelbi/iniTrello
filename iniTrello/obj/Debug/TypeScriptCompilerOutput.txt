@@ -1,0 +1,12 @@
+C:\Users\zahir\Desktop\iniTrello\iniTrello\Scripts\Enums.js
+C:\Users\zahir\Desktop\iniTrello\iniTrello\Scripts\Enums.js.map
+C:\Users\zahir\Desktop\iniTrello\iniTrello\app\app.module.js
+C:\Users\zahir\Desktop\iniTrello\iniTrello\app\app.module.js.map
+C:\Users\zahir\Desktop\iniTrello\iniTrello\app\utils\HttpHelpers.js
+C:\Users\zahir\Desktop\iniTrello\iniTrello\app\utils\HttpHelpers.js.map
+C:\Users\zahir\Desktop\iniTrello\iniTrello\app\services\app.service.todolist.js
+C:\Users\zahir\Desktop\iniTrello\iniTrello\app\services\app.service.todolist.js.map
+C:\Users\zahir\Desktop\iniTrello\iniTrello\app\components\todolist\todolist.component.js
+C:\Users\zahir\Desktop\iniTrello\iniTrello\app\components\todolist\todolist.component.js.map
+C:\Users\zahir\Desktop\iniTrello\iniTrello\app\boottodolist.js
+C:\Users\zahir\Desktop\iniTrello\iniTrello\app\boottodolist.js.map
